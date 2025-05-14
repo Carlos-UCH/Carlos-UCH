@@ -8,8 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-brasil-de-souza-957916266/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosbrasil254@gmail.com)
 
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-UCH&https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whiteUCH&show_icons=true&theme=midnight-purple)
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whiteUCH&show_icons=true&theme=midnight-purple)
 
 <hr>
 
